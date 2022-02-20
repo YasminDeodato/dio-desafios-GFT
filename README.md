@@ -1,2 +1,32 @@
-# dio-desafios-GFT
+# DIO Desafios 🎯
+
 Repositório para Desafios da Dio - Bootcamp GFT Start #4 Java
+
+## Conteúdos
+### 📚 Aulas/Cursos
+- [ ]  Lógica de Programação - 4h
+- [ ]  Estrutura de Dados - 2h
+- [ ]  Git e GitHub - 5h
+- [ ]  Documentação Java - 2h
+- [ ]  IDEs (Java) - 4h
+- [ ]  Tipos de Dados (Java) - 2h
+- [ ]  Métodos (Java) - 2h
+- [ ]  Condições (Java) - 1h
+- [ ]  Arrays (Java) - 3h
+- [ ]  POO - 4h
+- [ ]  Debugging (Java) - 1h
+- [ ]  Exceções (Java) - 2h
+- [ ]  Collections (Java) - 6h
+- [ ]  Protocolos HTTP/HTTPS - 3h
+- [ ]  Spring Boot - 3h
+
+### 👊 Desafios
+- [ ] 1. Desafios iniciais (0/3) - 6h
+- [ ] 2. Desafios básicos (0/3) - 6h
+- [ ] 3. Desafios (0/3) - 6h
+- [ ] 4. Desafios intermediários (0/3) - 6h
+
+### 📋 Projetos
+- [ ] 1. Projeto no GitHub - 1h
+- [ ] 2. Banco Digital - 1h
+- [ ] 3. Padrões de Projeto - 1h
