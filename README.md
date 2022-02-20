@@ -1,6 +1,6 @@
 # DIO Desafios 🎯
 
-Repositório para Desafios da Dio - Bootcamp GFT Start #4 Java
+Repositório para Desafios da Dio - **Bootcamp GFT Start #4 Java**
 
 ## Conteúdos
 ### 📚 Aulas/Cursos
@@ -27,6 +27,6 @@ Repositório para Desafios da Dio - Bootcamp GFT Start #4 Java
 - [ ] 4. Desafios intermediários (0/3) - 6h
 
 ### 📋 Projetos
-- [ ] 1. Projeto no GitHub - 1h
+- [x] 1. Projeto no GitHub - 1h
 - [ ] 2. Banco Digital - 1h
 - [ ] 3. Padrões de Projeto - 1h
