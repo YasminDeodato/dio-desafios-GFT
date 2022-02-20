@@ -4,9 +4,9 @@ Repositório para Desafios da Dio - Bootcamp GFT Start #4 Java
 
 ## Conteúdos
 ### 📚 Aulas/Cursos
-- [ ]  Lógica de Programação - 4h
-- [ ]  Estrutura de Dados - 2h
-- [ ]  Git e GitHub - 5h
+- [x]  Lógica de Programação - 4h
+- [x]  Estrutura de Dados - 2h
+- [x]  Git e GitHub - 5h
 - [ ]  Documentação Java - 2h
 - [ ]  IDEs (Java) - 4h
 - [ ]  Tipos de Dados (Java) - 2h
