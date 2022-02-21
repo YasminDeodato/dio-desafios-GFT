@@ -7,8 +7,8 @@ Repositório para Desafios da Dio - **Bootcamp GFT Start #4 Java**
 - [x]  Lógica de Programação - 4h
 - [x]  Estrutura de Dados - 2h
 - [x]  Git e GitHub - 5h
-- [ ]  Documentação Java - 2h
-- [ ]  IDEs (Java) - 4h
+- [x]  Documentação Java - 2h
+- [x]  IDEs (Java) - 4h
 - [ ]  Tipos de Dados (Java) - 2h
 - [ ]  Métodos (Java) - 2h
 - [ ]  Condições (Java) - 1h
