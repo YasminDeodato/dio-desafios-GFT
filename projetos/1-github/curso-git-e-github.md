@@ -12,19 +12,28 @@
 4. Melhorar seu código
 5. Reconhecimento
 
-Git Bash - CLI (command line interface) - terminal
-Git GUI - GUI (graphical user interface)
+**Git Bash - CLI** (command line interface) - terminal
+
+**Git GUI - GUI** (graphical user interface)
 
 ## Comandos úteis para utilizar no terminal
 Tais comandos são válidos no sistema operacional _Windows_
 `cd` - _change directory_ navegar para um diretório
+
 `dir` - listar diretório atual
+
 `mkdir`- _make directory_ criar uma pasta
+
 `del` - deletar arquivvos
+
 `rmdir` - _remove directory_ remover uma pasta
+
 `cls` - _clear screen_ limpar terminal
+
 `tab` - autocompletar
+
 `echo` - printar uma frase
+
 `>` - redirecionador de fluxo
 
 ## Princípios básicos do GIT
@@ -42,24 +51,33 @@ _Observe que ao alterar uma singela vírgula em um arquivo, alteramos por sua ve
 ### Estados dos arquivos
 **Tracked** - arquivos rastreados pelo Git
 
-**unmodifed -** arquivo que ainda não foi modificado
-**modified -** arquivo que já foi modificado
-**staged -** arquivo que “ainda não entrou em cena”, que estão se preparando para fazer parte de um outro grupo
+* **unmodifed -** arquivo que ainda não foi modificado
+
+* **modified -** arquivo que já foi modificado
+
+* **staged -** arquivo que “ainda não entrou em cena”, que estão se preparando para fazer parte de um outro grupo
+
 
 **Untracked** - arquivos não rastreados pelo Git
 
 ## Comandos no Git
 `git init` - iniciar o Repositório Git em uma pasta;
+
 `git add *` - adicionar arquivos
+
 `git commit -m 'mensagem'` - criar commit
+
 `git status` - obter status dods arquivos
 
 A pasta **.git** é uma pasta oculta é responsável gerenciar os códigos e objetos internos do git.
 
 ## Do Git para o GitHub
 `git remote add origin linkrepositoriogithub` - adicionar origin
+
 `git push origin main` - empurrar versão do repositório local para origem remota (origin)
+
 `git clone linkdorepositorio` - baixar repositório do GitHub para a máquina
+
 `git pull origin main` - obter versão mais recente do repositório GitHub
 
 ## Conflitos
