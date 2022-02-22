@@ -9,9 +9,9 @@ Repositório para Desafios da Dio - **Bootcamp GFT Start #4 Java**
 - [x]  Git e GitHub - 5h
 - [x]  Documentação Java - 2h
 - [x]  IDEs (Java) - 4h
-- [ ]  Tipos de Dados (Java) - 2h
-- [ ]  Métodos (Java) - 2h
-- [ ]  Condições (Java) - 1h
+- [x]  Tipos de Dados (Java) - 2h
+- [x]  Métodos (Java) - 2h
+- [x]  Condições (Java) - 1h
 - [ ]  Arrays (Java) - 3h
 - [ ]  POO - 4h
 - [ ]  Debugging (Java) - 1h
