@@ -21,7 +21,7 @@ Repositório para Desafios da Dio - **Bootcamp GFT Start #4 Java**
 - [ ]  Spring Boot - 3h
 
 ### 👊 Desafios
-- [x] 1. Desafios iniciais (3/3) - 6h
+- [x] [1. Desafios iniciais (3/3) - 6h](desafios/iniciais)
 - [ ] 2. Desafios básicos (0/3) - 6h
 - [ ] 3. Desafios (0/3) - 6h
 - [ ] 4. Desafios intermediários (0/3) - 6h
