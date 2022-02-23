@@ -13,7 +13,7 @@ Repositório para Desafios da Dio - **Bootcamp GFT Start #4 Java**
 - [x]  Métodos (Java) - 2h
 - [x]  Condições (Java) - 1h
 - [x]  Arrays (Java) - 3h
-- [ ]  POO - 4h
+- [x]  POO - 4h
 - [ ]  Debugging (Java) - 1h
 - [ ]  Exceções (Java) - 2h
 - [ ]  Collections (Java) - 6h
