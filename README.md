@@ -28,5 +28,5 @@ Repositório para Desafios da Dio - **Bootcamp GFT Start #4 Java**
 
 ### 📋 Projetos
 - [x] [1. Projeto no GitHub - 1h](projetos/1-github/descricao.md)
-- [x] [2. Banco Digital - 1h](projeto/2-banco_digital/descricao.md)
+- [x] [2. Banco Digital - 1h](projetos/2-banco_digital/descricao.md)
 - [ ] 3. Padrões de Projeto - 1h
