@@ -1,6 +1,6 @@
 # DIO Desafios 🎯
 
-Repositório para Desafios da Dio - **Bootcamp GFT Start #4 Java**
+Repositório para atividades do **Bootcamp GFT Start #4 Java** da Dio (Digital Innovation One)
 
 ## Conteúdos
 ### 📚 Aulas/Cursos
@@ -29,4 +29,5 @@ Repositório para Desafios da Dio - **Bootcamp GFT Start #4 Java**
 ### 📋 Projetos
 - [x] [1. Projeto no GitHub - 1h](projetos/1-github/descricao.md)
 - [x] [2. Banco Digital - 1h](projetos/2-banco_digital/descricao.md)
-- [ ] 3. Padrões de Projeto - 1h
+- [ ] 3. Abstração de um Bootcamp com POO
+- [ ] 4. Padrões de Projeto - 1h
