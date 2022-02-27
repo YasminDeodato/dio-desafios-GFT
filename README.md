@@ -16,7 +16,7 @@ Repositório para atividades do **Bootcamp GFT Start #4 Java** da Dio (Digital I
 - [x]  POO - 4h
 - [x]  Debugging (Java) - 1h
 - [x]  Exceções (Java) - 2h
-- [ ]  Collections (Java) - 6h
+- [x]  Collections (Java) - 6h
 - [ ]  Protocolos HTTP/HTTPS - 3h
 - [ ]  Spring Boot - 3h
 
