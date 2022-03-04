@@ -29,5 +29,5 @@ Repositório para atividades do **Bootcamp GFT Start #4 Java** da Dio (Digital I
 ### 📋 Projetos
 - [x] [1. Projeto no GitHub - 1h](projetos/1-github/descricao.md)
 - [x] [2. Banco Digital - 1h](projetos/2-banco_digital/descricao.md)
-- [ ] 3. Abstração de um Bootcamp com POO
+- [x] [3. Abstração de um Bootcamp com POO](projetos/3-bootcamp/descricao.md)
 - [ ] 4. Padrões de Projeto - 1h
