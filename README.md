@@ -24,7 +24,7 @@ Repositório para atividades do **Bootcamp GFT Start #4 Java** da Dio (Digital I
 - [x] [1. Desafios iniciais (3/3) - 6h](desafios/iniciais)
 - [x] [2. Desafios básicos (3/3) - 6h](desafios/basicos)
 - [x] [3. Desafios (3/3) - 6h](desafios/desafios)
-- [ ] 4. Desafios intermediários (0/3) - 6h
+- [x] [4. Desafios intermediários (3/3) - 6h](desafios/intermediarios)
 
 ### 📋 Projetos
 - [x] [1. Projeto no GitHub - 1h](projetos/1-github/descricao.md)
