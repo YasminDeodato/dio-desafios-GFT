@@ -18,7 +18,7 @@ Repositório para atividades do **Bootcamp GFT Start #4 Java** da Dio (Digital I
 - [x]  Exceções (Java) - 2h
 - [x]  Collections (Java) - 6h
 - [x]  Protocolos HTTP/HTTPS - 3h
-- [ ]  Spring Boot - 3h
+- [x]  Spring Boot - 3h
 
 ### 👊 Desafios
 - [x] [1. Desafios iniciais (3/3) - 6h](desafios/iniciais)
